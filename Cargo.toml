@@ -1,0 +1,16 @@
+[package]
+
+name = "woodnsword"
+version = "0.0.1"
+
+git = "https://github.com/xnil/woodnsword.git"
+
+[[bin]]
+
+name = "woodnrelay"
+path = "src/relay/main.rs"
+
+[[bin]]
+
+name = "woodnserver"
+path = "src/server/main.rs"
