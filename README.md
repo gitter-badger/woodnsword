@@ -17,5 +17,5 @@ The WooDNSword backend consists of two separate programs:
   disconnects, all registered domains are relinquished until they are
   reclaimed.
  
- WooDNSword clients send requests to a relay for a response containing certain
- information about a domain.
+WooDNSword clients send requests to a relay for a response containing certain
+information about a domain.
